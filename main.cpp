@@ -15,7 +15,7 @@ bool isOperator(string c)
 int main()
 {
 	Stack s1;
-    string st;
+    	string st;
 	string preorderexp;
 	int length;
 	cout<<"Pre-order expression:"<<endl;
